@@ -1,2 +1,2 @@
-# JavaScriptProject
+# js_learning
 JavaScript проект
